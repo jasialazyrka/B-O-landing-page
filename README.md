@@ -1,34 +1,28 @@
-🎧 Bang & Olufsen Landing Page
-📄 Project Description
-This is a single-page landing site created for Bang & Olufsen, with an emphasis on elegant and minimalist design to highlight the brand’s premium audio products.
+# 🎧 Bang & Olufsen Landing Page
 
-The page includes the following sections:
+## 📄 Project Description
+A **single-page landing site** created for **Bang & Olufsen**, focusing on an elegant and minimalist design to highlight the brand’s premium audio products.
 
-Recommended Products
+### Sections Included
+- **Recommended Products**
+- **Categories**
+- **About Us**
+- **Contact Us**
 
-Categories
+Built with **SCSS** using the **BEM methodology** for clean, scalable CSS.
+The responsive layout adapts to different screen sizes and includes:
+- A navigation menu
+- A contact form
+- A modern, product-focused design with high-quality visuals
 
-About Us
+---
 
-Contact Us
+## 🛠 Technologies Used
+- **HTML5** – Semantic page structure
+- **SCSS (BEM)** – Organized, maintainable styling
+- **JavaScript** – Interactive features (menu, contact form)
 
-Built with SCSS using the BEM methodology for clean, scalable CSS.
-The site features a responsive layout that adapts to different screen sizes and includes:
+---
 
-A navigation menu
-
-A contact form
-
-A modern, product-focused design with high-quality visuals
-
-🛠 Technologies Used
-HTML5 – Semantic page structure
-
-SCSS (BEM) – Organized, maintainable styling
-
-JavaScript – Interactive features (menu, contact form)
-
-🔍 Preview
-
-Check out the live version here:
-[LIVE DEMO](https://jasialazyrka.github.io/B-O-landing-page/)
+## 🔍 Preview
+Check out the live version here: [**LIVE DEMO**](https://jasialazyrka.github.io/layout_landing-page/)
